@@ -34,3 +34,4 @@ These terms may be updated periodically. Continued use of the bot after changes 
 
 For questions or support, contact the bot's developer through the official support server or contact method provided by the developer.# discord-bot-legal
 All rights reserved. Beware of imitation, copying, or other unauthorized use.
+developer id on discord is "1384795090278420614"
