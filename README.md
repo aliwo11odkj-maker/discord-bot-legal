@@ -34,29 +34,3 @@ These terms may be updated periodically. Continued use of the bot after changes 
 
 For questions or support, contact the bot's developer through the official support server or contact method provided by the developer.# discord-bot-legal
 All rights reserved. Beware of imitation, copying, or other unauthorized use.
-
-Terms of Service – AI Bot
-
-Last Updated: October 27, 2026
-
-1. Acceptance of Terms
-
-By using this Discord AI Bot, you agree to these Terms of Service. If you do not agree, please stop using the bot.
-
-Terms of Service – AI Bot
-
-Last Updated: October 27, 2026
-
-1. Acceptance of Terms
-
-By using this Discord AI Bot, you agree to these Terms of Service. If you do not agree, please stop using the bot.
-
-2شروط الخدمة - بوت الذكاء الاصطناعي
-
-آخر تحديث: ٢٧ أكتوبر ٢٠٢٦
-
-١. قبول الشروط
-
-باستخدام بوت الذكاء الاصطناعي هذا على ديسكورد، فإنك توافق على شروط الخدمة هذه. إذا كنت لا توافق، يُرجى التوقف عن استخدام البوت.
-
-٢.
